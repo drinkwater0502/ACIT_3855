@@ -6,7 +6,7 @@ import requests
 import yaml
 import logging
 import logging.config
-import uuid
+#import uuid
 from pykafka import KafkaClient
 
 with open("app_conf.yml", "r") as f:

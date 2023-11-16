@@ -1,15 +1,15 @@
 import connexion
 from connexion import NoContent
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
+#from sqlalchemy import create_engine
+#from sqlalchemy.orm import sessionmaker
 
-import pymysql
+#import pymysql
 import yaml
 import logging
 import logging.config
 import requests
-import sqlite3
+#import sqlite3
 
 import datetime
 
