@@ -1,0 +1,5 @@
+version: 1
+events:
+  hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com
+  port: 9092
+  topic: events

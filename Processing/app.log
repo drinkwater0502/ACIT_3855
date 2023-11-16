@@ -1,0 +1,323 @@
+2023-10-15 10:39:56,035 - basicLogger - INFO - Periodic processing has started
+2023-10-15 10:39:58,060 - basicLogger - INFO - Getting stats
+2023-10-15 10:39:58,060 - basicLogger - ERROR - data.json file does not exist
+2023-10-15 10:40:02,137 - basicLogger - INFO - Received 4 meal calorie events and 4 user weight events
+2023-10-15 10:40:02,138 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:39:58Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:02,138 - basicLogger - INFO - Period processing has ended
+2023-10-15 10:40:06,035 - basicLogger - INFO - Periodic processing has started
+2023-10-15 10:40:08,057 - basicLogger - INFO - Getting stats
+2023-10-15 10:40:08,058 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:39:58Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:08,058 - basicLogger - INFO - Get stats request completed
+2023-10-15 10:40:12,127 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-10-15 10:40:12,128 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:08Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:12,128 - basicLogger - INFO - Period processing has ended
+2023-10-15 10:40:16,038 - basicLogger - INFO - Periodic processing has started
+2023-10-15 10:40:18,081 - basicLogger - INFO - Getting stats
+2023-10-15 10:40:18,082 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:08Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:18,082 - basicLogger - INFO - Get stats request completed
+2023-10-15 10:40:22,169 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-10-15 10:40:22,170 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:18Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:22,170 - basicLogger - INFO - Period processing has ended
+2023-10-15 10:40:26,032 - basicLogger - INFO - Periodic processing has started
+2023-10-15 10:40:28,071 - basicLogger - INFO - Getting stats
+2023-10-15 10:40:28,072 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:18Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:28,072 - basicLogger - INFO - Get stats request completed
+2023-10-15 10:40:32,147 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-10-15 10:40:32,148 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:28Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:32,148 - basicLogger - INFO - Period processing has ended
+2023-10-15 10:40:36,036 - basicLogger - INFO - Periodic processing has started
+2023-10-15 10:40:38,056 - basicLogger - INFO - Getting stats
+2023-10-15 10:40:38,056 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:28Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:38,057 - basicLogger - INFO - Get stats request completed
+2023-10-15 10:40:42,129 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-10-15 10:40:42,130 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:38Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-10-15 10:40:42,130 - basicLogger - INFO - Period processing has ended
+2023-10-15 10:40:46,031 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:35:52,024 - basicLogger - INFO - Getting stats
+2023-11-02 00:35:52,032 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:38Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:35:52,032 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:35:53,035 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:35:55,075 - basicLogger - INFO - Getting stats
+2023-11-02 00:35:55,076 - basicLogger - DEBUG - {'last_updated_stats': '2023-10-15T10:40:38Z', 'total_meal_calorie_entries': 4, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:35:55,076 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:35:59,294 - basicLogger - INFO - Received 2 meal calorie events and 0 user weight events
+2023-11-02 00:35:59,295 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:35:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:35:59,295 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:36:03,033 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:36:05,062 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:05,063 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:35:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:05,063 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:09,262 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:36:09,263 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:09,264 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:36:09,747 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:09,748 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:09,748 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:13,028 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:36:15,074 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:15,075 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:15,075 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:15,735 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:15,735 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:15,736 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:16,879 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:16,880 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:16,880 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:19,268 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:36:19,269 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:19,269 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:36:19,712 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:19,712 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:19,713 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:23,036 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:36:25,083 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:25,083 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:25,084 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:29,321 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:36:29,323 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:29,323 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:36:33,045 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:36:35,082 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:35,082 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:35,083 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:39,293 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:36:39,295 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:39,295 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:36:43,045 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:36:45,093 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:45,094 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:45,095 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:49,297 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:36:49,298 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:49,299 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:36:53,031 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:36:55,053 - basicLogger - INFO - Getting stats
+2023-11-02 00:36:55,054 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:55,054 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:36:59,286 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:36:59,287 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:36:59,288 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:37:03,033 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:37:05,067 - basicLogger - INFO - Getting stats
+2023-11-02 00:37:05,067 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:36:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:05,068 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:37:09,295 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:37:09,296 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:09,297 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:37:13,040 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:37:15,056 - basicLogger - INFO - Getting stats
+2023-11-02 00:37:15,057 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:15,058 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:37:19,234 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:37:19,235 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:19,235 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:37:23,038 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:37:25,077 - basicLogger - INFO - Getting stats
+2023-11-02 00:37:25,078 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:25,078 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:37:29,274 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:37:29,275 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:29,275 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:37:33,035 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:37:35,070 - basicLogger - INFO - Getting stats
+2023-11-02 00:37:35,071 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:35,071 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:37:39,275 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:37:39,276 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:39,277 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:37:43,030 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:37:45,073 - basicLogger - INFO - Getting stats
+2023-11-02 00:37:45,074 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:45,074 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:37:49,304 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:37:49,305 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:49,306 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:37:53,029 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:37:55,064 - basicLogger - INFO - Getting stats
+2023-11-02 00:37:55,064 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:55,065 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:37:59,263 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:37:59,265 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:37:59,265 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:38:03,035 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:38:05,071 - basicLogger - INFO - Getting stats
+2023-11-02 00:38:05,071 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:37:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:05,072 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:38:09,301 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:38:09,302 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:09,302 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:38:13,040 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:38:15,059 - basicLogger - INFO - Getting stats
+2023-11-02 00:38:15,060 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:15,061 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:38:19,260 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:38:19,261 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:19,262 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:38:23,034 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:38:25,069 - basicLogger - INFO - Getting stats
+2023-11-02 00:38:25,070 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:25,070 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:38:29,301 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:38:29,302 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:29,302 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:38:33,040 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:38:35,060 - basicLogger - INFO - Getting stats
+2023-11-02 00:38:35,061 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:35,062 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:38:39,275 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:38:39,276 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:39,277 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:38:43,041 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:38:45,073 - basicLogger - INFO - Getting stats
+2023-11-02 00:38:45,074 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:45,075 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:38:49,269 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:38:49,270 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:49,271 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:38:53,028 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:38:55,052 - basicLogger - INFO - Getting stats
+2023-11-02 00:38:55,053 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:55,054 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:38:59,247 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:38:59,248 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:38:59,249 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:39:03,039 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:39:05,074 - basicLogger - INFO - Getting stats
+2023-11-02 00:39:05,075 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:38:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:05,075 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:39:09,281 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:39:09,282 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:09,283 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:39:13,037 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:39:15,084 - basicLogger - INFO - Getting stats
+2023-11-02 00:39:15,085 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:15,085 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:39:19,289 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:39:19,290 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:19,290 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:39:23,044 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:39:25,097 - basicLogger - INFO - Getting stats
+2023-11-02 00:39:25,098 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:25,098 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:39:29,281 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:39:29,282 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:29,283 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:39:33,030 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:39:35,063 - basicLogger - INFO - Getting stats
+2023-11-02 00:39:35,064 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:35,065 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:39:39,252 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:39:39,253 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:39,254 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:39:43,036 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:39:45,053 - basicLogger - INFO - Getting stats
+2023-11-02 00:39:45,054 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:45,055 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:39:49,239 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:39:49,241 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:49,241 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:39:53,031 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:39:55,051 - basicLogger - INFO - Getting stats
+2023-11-02 00:39:55,052 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:55,053 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:39:59,250 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:39:59,252 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:39:59,252 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:40:03,050 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:40:05,082 - basicLogger - INFO - Getting stats
+2023-11-02 00:40:05,082 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:39:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:05,083 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:40:09,280 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:40:09,282 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:09,282 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:40:13,036 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:40:15,074 - basicLogger - INFO - Getting stats
+2023-11-02 00:40:15,075 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:15,075 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:40:19,276 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:40:19,277 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:19,278 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:40:23,048 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:40:25,086 - basicLogger - INFO - Getting stats
+2023-11-02 00:40:25,086 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:25,087 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:40:29,337 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:40:29,338 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:29,339 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:40:33,035 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:40:35,082 - basicLogger - INFO - Getting stats
+2023-11-02 00:40:35,083 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:35,084 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:40:39,275 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:40:39,276 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:39,277 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:40:43,028 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:40:45,051 - basicLogger - INFO - Getting stats
+2023-11-02 00:40:45,052 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:45,052 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:40:49,276 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:40:49,277 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:49,277 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:40:53,036 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:40:55,071 - basicLogger - INFO - Getting stats
+2023-11-02 00:40:55,071 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:55,072 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:40:59,290 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:40:59,291 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:40:59,291 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:41:03,040 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:41:05,081 - basicLogger - INFO - Getting stats
+2023-11-02 00:41:05,082 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:40:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:05,083 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:41:09,301 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:41:09,302 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:09,302 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:41:13,031 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:41:15,056 - basicLogger - INFO - Getting stats
+2023-11-02 00:41:15,057 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:15,057 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:41:19,285 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:41:19,286 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:19,286 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:41:23,035 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:41:25,051 - basicLogger - INFO - Getting stats
+2023-11-02 00:41:25,052 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:25,052 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:41:29,255 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:41:29,256 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:29,257 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:41:33,036 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:41:35,061 - basicLogger - INFO - Getting stats
+2023-11-02 00:41:35,061 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:25Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:35,062 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:41:39,273 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:41:39,274 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:39,274 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:41:43,037 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:41:45,109 - basicLogger - INFO - Getting stats
+2023-11-02 00:41:45,110 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:35Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:45,110 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:41:49,312 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:41:49,313 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:49,314 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:41:53,036 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:41:55,067 - basicLogger - INFO - Getting stats
+2023-11-02 00:41:55,068 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:45Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:55,068 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:41:59,275 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:41:59,276 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:41:59,276 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:42:03,043 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:42:05,075 - basicLogger - INFO - Getting stats
+2023-11-02 00:42:05,076 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:41:55Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:42:05,077 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:42:09,284 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:42:09,285 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:42:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:42:09,286 - basicLogger - INFO - Period processing has ended
+2023-11-02 00:42:13,047 - basicLogger - INFO - Periodic processing has started
+2023-11-02 00:42:15,092 - basicLogger - INFO - Getting stats
+2023-11-02 00:42:15,093 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:42:05Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:42:15,093 - basicLogger - INFO - Get stats request completed
+2023-11-02 00:42:19,308 - basicLogger - INFO - Received 0 meal calorie events and 0 user weight events
+2023-11-02 00:42:19,308 - basicLogger - DEBUG - {'last_updated_stats': '2023-11-02T00:42:15Z', 'total_meal_calorie_entries': 6, 'total_user_weight_entries': 4, 'highest_meal_calorie': 200, 'lowest_user_weight': 20}
+2023-11-02 00:42:19,309 - basicLogger - INFO - Period processing has ended

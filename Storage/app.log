@@ -1,0 +1,209 @@
+2023-10-04 13:30:47,272 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of 9db5e10e-6203-4b86-b7b4-5ccb80736488
+2023-10-15 06:46:57,929 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of e0055f3c-90dd-4c8b-b8b3-ba8604e96e20
+2023-10-15 07:26:28,014 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of a637930b-800a-4c16-b1c0-6c1555aa8d27
+2023-10-15 07:32:55,635 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of b884ff29-c044-45ab-ac41-d9717e503d1a
+2023-10-15 07:33:52,659 - basicLogger - INFO - Query for Meal Calories after 1980-02-10T13:00:00Z returns 1 results
+2023-10-15 07:34:12,767 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of b6ec70aa-5054-424c-b463-0f7e0cc3b36d
+2023-10-15 07:34:18,505 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of 059e27dd-5bb6-438b-bad0-ce712af784c5
+2023-10-15 07:35:03,182 - basicLogger - INFO - Query for Meal Calories after 1980-02-10T13:00:00Z returns 3 results
+2023-10-15 07:35:12,289 - basicLogger - INFO - Query for Meal Calories after 2020-02-10T13:00:00Z returns 3 results
+2023-10-15 07:41:09,223 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T07:34:00Z returns 2 results
+2023-10-15 09:22:46,557 - basicLogger - INFO - Query for Meal Calories after 2000-02-10T13:00:00Z returns 3 results
+2023-10-15 09:22:51,533 - basicLogger - INFO - Query for Meal Calories after 2000-02-10T13:00:00Z returns 3 results
+2023-10-15 09:23:10,511 - basicLogger - INFO - Query for Meal Calories after 2000-02-10T13:00:00Z returns 3 results
+2023-10-15 09:27:59,639 - basicLogger - DEBUG - Stored event user_weight request with a trace_id of a8bac723-57b5-434f-b4ba-534b2f009084
+2023-10-15 09:28:32,877 - basicLogger - DEBUG - Stored event user_weight request with a trace_id of 3df24379-4f6c-4ddb-8800-c72d03a82317
+2023-10-15 09:28:44,130 - basicLogger - DEBUG - Stored event user_weight request with a trace_id of 7eb3fc24-68a0-4f99-8a2a-bf4573c8d1a4
+2023-10-15 10:07:54,145 - basicLogger - INFO - Query for Meal Calories after 2000-10-15T07:34:00Z returns 3 results
+2023-10-15 10:18:50,060 - basicLogger - INFO - Query for Meal Calories after 2024-10-15T07:34:00Z returns 0 results
+2023-10-15 10:30:17,975 - basicLogger - INFO - Query for Meal Calories after 2000-10-15T07:34:00Z returns 3 results
+2023-10-15 10:33:14,545 - basicLogger - INFO - Query for Meal Calories after 2000-02-10T13:00:00Z returns 3 results
+2023-10-15 10:33:16,567 - basicLogger - INFO - Query for User Weight after 2000-02-10T13:00:00Z returns 3 results
+2023-10-15 10:33:24,510 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:33:12Z returns 0 results
+2023-10-15 10:33:26,543 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:33:12Z returns 0 results
+2023-10-15 10:33:34,494 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:33:22Z returns 0 results
+2023-10-15 10:33:36,523 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:33:22Z returns 0 results
+2023-10-15 10:33:44,509 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:33:32Z returns 0 results
+2023-10-15 10:33:46,551 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:33:32Z returns 0 results
+2023-10-15 10:33:54,511 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:33:42Z returns 0 results
+2023-10-15 10:33:56,529 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:33:42Z returns 0 results
+2023-10-15 10:34:04,499 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:33:52Z returns 0 results
+2023-10-15 10:34:06,532 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:33:52Z returns 0 results
+2023-10-15 10:34:14,491 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:34:02Z returns 0 results
+2023-10-15 10:34:16,510 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:34:02Z returns 0 results
+2023-10-15 10:36:16,087 - basicLogger - INFO - Query for Meal Calories after 2000-02-10T13:00:00Z returns 3 results
+2023-10-15 10:36:18,117 - basicLogger - INFO - Query for User Weight after 2000-02-10T13:00:00Z returns 3 results
+2023-10-15 10:36:26,084 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:36:14Z returns 0 results
+2023-10-15 10:36:28,123 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:36:14Z returns 0 results
+2023-10-15 10:36:36,107 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:36:24Z returns 0 results
+2023-10-15 10:36:38,146 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:36:24Z returns 0 results
+2023-10-15 10:36:46,104 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:36:34Z returns 0 results
+2023-10-15 10:36:48,133 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:36:34Z returns 0 results
+2023-10-15 10:36:56,081 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:36:44Z returns 0 results
+2023-10-15 10:36:58,131 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:36:44Z returns 0 results
+2023-10-15 10:37:06,076 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:36:54Z returns 0 results
+2023-10-15 10:37:08,123 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:36:54Z returns 0 results
+2023-10-15 10:37:08,615 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of 5a9763fb-d664-4fb8-bea8-33f612a7af27
+2023-10-15 10:37:16,095 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:37:04Z returns 1 results
+2023-10-15 10:37:18,127 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:37:04Z returns 0 results
+2023-10-15 10:37:26,080 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:37:14Z returns 0 results
+2023-10-15 10:37:28,125 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:37:14Z returns 0 results
+2023-10-15 10:37:36,101 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:37:24Z returns 0 results
+2023-10-15 10:37:38,134 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:37:24Z returns 0 results
+2023-10-15 10:37:43,377 - basicLogger - DEBUG - Stored event user_weight request with a trace_id of 8239c156-892e-4dcc-adf3-f827f4fae0a6
+2023-10-15 10:37:46,105 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:37:34Z returns 0 results
+2023-10-15 10:37:48,149 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:37:34Z returns 1 results
+2023-10-15 10:37:56,106 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:37:44Z returns 0 results
+2023-10-15 10:37:58,154 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:37:44Z returns 0 results
+2023-10-15 10:38:06,115 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:37:54Z returns 0 results
+2023-10-15 10:38:08,154 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:37:54Z returns 0 results
+2023-10-15 10:38:16,069 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:38:04Z returns 0 results
+2023-10-15 10:38:18,111 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:38:04Z returns 0 results
+2023-10-15 10:38:26,087 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:38:14Z returns 0 results
+2023-10-15 10:38:28,128 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:38:14Z returns 0 results
+2023-10-15 10:38:36,076 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:38:24Z returns 0 results
+2023-10-15 10:38:38,114 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:38:24Z returns 0 results
+2023-10-15 10:38:46,079 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:38:34Z returns 0 results
+2023-10-15 10:38:48,114 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:38:34Z returns 0 results
+2023-10-15 10:38:56,084 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:38:44Z returns 0 results
+2023-10-15 10:38:58,123 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:38:44Z returns 0 results
+2023-10-15 10:39:06,079 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:38:54Z returns 0 results
+2023-10-15 10:39:08,120 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:38:54Z returns 0 results
+2023-10-15 10:39:16,081 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:39:04Z returns 0 results
+2023-10-15 10:39:18,130 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:39:04Z returns 0 results
+2023-10-15 10:39:26,083 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:39:14Z returns 0 results
+2023-10-15 10:39:28,119 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:39:14Z returns 0 results
+2023-10-15 10:39:36,070 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:39:24Z returns 0 results
+2023-10-15 10:39:38,108 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:39:24Z returns 0 results
+2023-10-15 10:40:00,097 - basicLogger - INFO - Query for Meal Calories after 2000-02-10T13:00:00Z returns 4 results
+2023-10-15 10:40:02,135 - basicLogger - INFO - Query for User Weight after 2000-02-10T13:00:00Z returns 4 results
+2023-10-15 10:40:10,098 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:39:58Z returns 0 results
+2023-10-15 10:40:12,126 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:39:58Z returns 0 results
+2023-10-15 10:40:20,141 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:40:08Z returns 0 results
+2023-10-15 10:40:22,168 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:40:08Z returns 0 results
+2023-10-15 10:40:30,116 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:40:18Z returns 0 results
+2023-10-15 10:40:32,146 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:40:18Z returns 0 results
+2023-10-15 10:40:40,080 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:40:28Z returns 0 results
+2023-10-15 10:40:42,127 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:40:28Z returns 0 results
+2023-11-01 22:28:48,726 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of 419e491f-50d2-40cb-9ecf-4d513c48b71d
+2023-11-01 23:55:30,661 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-01 23:55:30,701 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-01 23:58:07,298 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of 5f2d5038-d1c6-4db8-ad47-897d95551f5e
+2023-11-02 00:24:06,306 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 00:24:06,594 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 00:25:13,418 - basicLogger - DEBUG - Stored event meal_calories request with a trace_id of 3966421b-d902-4a3a-9ff8-49212ba8fa7a
+2023-11-02 00:32:02,299 - basicLogger - INFO - Query for Meal Calories after 2000-10-15T07:34:00Z returns 2 results
+2023-11-02 00:33:04,024 - basicLogger - INFO - Query for Meal Calories after 2000-10-15T07:34:00Z returns 2 results
+2023-11-02 00:33:17,103 - basicLogger - INFO - Query for Meal Calories after 2000-10-15T07:34:00Z returns 2 results
+2023-11-02 00:35:57,181 - basicLogger - INFO - Query for Meal Calories after 2023-10-15T10:40:38Z returns 2 results
+2023-11-02 00:35:59,292 - basicLogger - INFO - Query for User Weight after 2023-10-15T10:40:38Z returns 0 results
+2023-11-02 00:36:07,164 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:35:55Z returns 0 results
+2023-11-02 00:36:09,260 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:35:55Z returns 0 results
+2023-11-02 00:36:17,170 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:36:05Z returns 0 results
+2023-11-02 00:36:19,266 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:36:05Z returns 0 results
+2023-11-02 00:36:27,205 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:36:15Z returns 0 results
+2023-11-02 00:36:29,319 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:36:15Z returns 0 results
+2023-11-02 00:36:37,177 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:36:25Z returns 0 results
+2023-11-02 00:36:39,290 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:36:25Z returns 0 results
+2023-11-02 00:36:47,196 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:36:35Z returns 0 results
+2023-11-02 00:36:49,295 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:36:35Z returns 0 results
+2023-11-02 00:36:57,164 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:36:45Z returns 0 results
+2023-11-02 00:36:59,284 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:36:45Z returns 0 results
+2023-11-02 00:37:07,189 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:36:55Z returns 0 results
+2023-11-02 00:37:09,292 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:36:55Z returns 0 results
+2023-11-02 00:37:17,133 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:37:05Z returns 0 results
+2023-11-02 00:37:19,232 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:37:05Z returns 0 results
+2023-11-02 00:37:27,194 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:37:15Z returns 0 results
+2023-11-02 00:37:29,271 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:37:15Z returns 0 results
+2023-11-02 00:37:37,179 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:37:25Z returns 0 results
+2023-11-02 00:37:39,272 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:37:25Z returns 0 results
+2023-11-02 00:37:47,195 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:37:35Z returns 0 results
+2023-11-02 00:37:49,301 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:37:35Z returns 0 results
+2023-11-02 00:37:57,150 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:37:45Z returns 0 results
+2023-11-02 00:37:59,261 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:37:45Z returns 0 results
+2023-11-02 00:38:07,178 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:37:55Z returns 0 results
+2023-11-02 00:38:09,298 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:37:55Z returns 0 results
+2023-11-02 00:38:17,165 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:38:05Z returns 0 results
+2023-11-02 00:38:19,258 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:38:05Z returns 0 results
+2023-11-02 00:38:27,200 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:38:15Z returns 0 results
+2023-11-02 00:38:29,298 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:38:15Z returns 0 results
+2023-11-02 00:38:37,182 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:38:25Z returns 0 results
+2023-11-02 00:38:39,272 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:38:25Z returns 0 results
+2023-11-02 00:38:47,168 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:38:35Z returns 0 results
+2023-11-02 00:38:49,267 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:38:35Z returns 0 results
+2023-11-02 00:38:57,156 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:38:45Z returns 0 results
+2023-11-02 00:38:59,244 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:38:45Z returns 0 results
+2023-11-02 00:39:07,169 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:38:55Z returns 0 results
+2023-11-02 00:39:09,279 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:38:55Z returns 0 results
+2023-11-02 00:39:17,195 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:39:05Z returns 0 results
+2023-11-02 00:39:19,286 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:39:05Z returns 0 results
+2023-11-02 00:39:27,188 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:39:15Z returns 0 results
+2023-11-02 00:39:29,279 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:39:15Z returns 0 results
+2023-11-02 00:39:37,165 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:39:25Z returns 0 results
+2023-11-02 00:39:39,250 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:39:25Z returns 0 results
+2023-11-02 00:39:47,161 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:39:35Z returns 0 results
+2023-11-02 00:39:49,237 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:39:35Z returns 0 results
+2023-11-02 00:39:57,149 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:39:45Z returns 0 results
+2023-11-02 00:39:59,248 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:39:45Z returns 0 results
+2023-11-02 00:40:07,165 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:39:55Z returns 0 results
+2023-11-02 00:40:09,278 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:39:55Z returns 0 results
+2023-11-02 00:40:17,179 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:40:05Z returns 0 results
+2023-11-02 00:40:19,273 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:40:05Z returns 0 results
+2023-11-02 00:40:27,215 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:40:15Z returns 0 results
+2023-11-02 00:40:29,335 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:40:15Z returns 0 results
+2023-11-02 00:40:37,183 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:40:25Z returns 0 results
+2023-11-02 00:40:39,272 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:40:25Z returns 0 results
+2023-11-02 00:40:47,165 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:40:35Z returns 0 results
+2023-11-02 00:40:49,273 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:40:35Z returns 0 results
+2023-11-02 00:40:57,177 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:40:45Z returns 0 results
+2023-11-02 00:40:59,287 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:40:45Z returns 0 results
+2023-11-02 00:41:07,197 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:40:55Z returns 0 results
+2023-11-02 00:41:09,298 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:40:55Z returns 0 results
+2023-11-02 00:41:17,178 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:41:05Z returns 0 results
+2023-11-02 00:41:19,282 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:41:05Z returns 0 results
+2023-11-02 00:41:27,176 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:41:15Z returns 0 results
+2023-11-02 00:41:29,253 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:41:15Z returns 0 results
+2023-11-02 00:41:37,167 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:41:25Z returns 0 results
+2023-11-02 00:41:39,270 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:41:25Z returns 0 results
+2023-11-02 00:41:47,201 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:41:35Z returns 0 results
+2023-11-02 00:41:49,309 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:41:35Z returns 0 results
+2023-11-02 00:41:57,169 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:41:45Z returns 0 results
+2023-11-02 00:41:59,272 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:41:45Z returns 0 results
+2023-11-02 00:42:07,171 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:41:55Z returns 0 results
+2023-11-02 00:42:09,283 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:41:55Z returns 0 results
+2023-11-02 00:42:17,198 - basicLogger - INFO - Query for Meal Calories after 2023-11-02T00:42:05Z returns 0 results
+2023-11-02 00:42:19,305 - basicLogger - INFO - Query for User Weight after 2023-11-02T00:42:05Z returns 0 results
+2023-11-02 01:36:17,292 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:36:17,341 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:38:57,701 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:38:57,740 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:41:25,314 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:41:25,349 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:41:57,942 - basicLogger - INFO - Query for Meal Calories after 2000-10-15T07:34:00Z returns 2 results
+2023-11-02 01:46:43,278 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:46:43,315 - basicLogger - INFO - Connecting to DB. Hostname: Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:50:18,612 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 01:50:18,649 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:00:10,987 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:00:11,031 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:02:27,032 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:02:27,070 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:02:36,454 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:02:36,489 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:02:49,554 - basicLogger - INFO - Query for Meal Calories after 2000-10-15T07:34:00Z returns 2 results
+2023-11-02 02:04:10,997 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:04:11,034 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:04:11,066 - basicLogger - INFO - ec2-34-215-184-146.us-west-2.compute.amazonaws.com:9092
+2023-11-02 02:04:40,310 - basicLogger - INFO - Message: {'type': 'calories', 'datetime': '2023-11-02T02:04:40', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Red Bull', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': '86cf6cd6-cfd3-4ee6-8221-e6ac3ed05334'}}
+2023-11-02 02:05:41,278 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:05:41,313 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 02:05:41,343 - basicLogger - INFO - ec2-34-215-184-146.us-west-2.compute.amazonaws.com:9092
+2023-11-02 02:05:58,777 - basicLogger - INFO - Message: {'type': 'calories', 'datetime': '2023-11-02T02:05:58', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Red Bull', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': 'e7b1c74b-5499-43ef-8edf-b1bd69c360ee'}}
+2023-11-02 02:19:35,420 - basicLogger - INFO - Message: {'type': 'weight', 'datetime': '2023-11-02T02:19:35', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight_kg': 40, 'weight_lbs': 170, 'timestamp': '2003-02-10T13:00:00Z', 'trace_id': 'f64e9922-064e-4e1f-9b21-84097c3ff7dd'}}
+2023-11-02 02:49:00,393 - basicLogger - INFO - Message: {'type': 'calories', 'datetime': '2023-11-02T02:49:00', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Red Bull', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': '08caf2f4-2135-4232-a459-3af9d2a71401'}}
+2023-11-02 02:52:03,780 - basicLogger - INFO - Message: {'type': 'calories', 'datetime': '2023-11-02T02:52:03', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Takis', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': '181e4422-7065-4c5b-9bf1-ef6d8092a3e2'}}
+2023-11-02 03:20:04,397 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 03:20:04,430 - basicLogger - INFO - Connecting to DB. Hostname: ec2-34-215-184-146.us-west-2.compute.amazonaws.com, Port: 3306
+2023-11-02 03:20:04,460 - basicLogger - INFO - ec2-34-215-184-146.us-west-2.compute.amazonaws.com:9092
+2023-11-02 03:22:28,070 - basicLogger - INFO - Message: {'type': 'calories', 'datetime': '2023-11-02T03:22:28', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Water', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': 'c45c7ba9-15d5-4d02-8546-4ae75ad870b5'}}
+2023-11-02 03:45:08,649 - basicLogger - INFO - Message: {'type': 'weight', 'datetime': '2023-11-02T03:45:08', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'weight_kg': 80, 'weight_lbs': 200, 'timestamp': '2003-02-10T13:00:00Z', 'trace_id': '00b5703e-0d49-44cb-b3a7-cf8deb8832b5'}}

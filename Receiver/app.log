@@ -1,0 +1,64 @@
+2023-10-04 12:54:02,840 - basicLogger - INFO - Received event meal_calories request with a trace id of 001fbf9d-69d1-4ea0-b69c-9669bc183679
+2023-10-04 12:54:04,997 - basicLogger - INFO - Returned event meal_calories response (Id: 001fbf9d-69d1-4ea0-b69c-9669bc183679) with status 201
+2023-10-04 13:29:32,723 - basicLogger - INFO - Received event meal_calories request with a trace id of 25257088-0519-49cc-8736-62b44623b2d0
+2023-10-04 13:29:34,792 - basicLogger - INFO - Returned event meal_calories response (Id: 25257088-0519-49cc-8736-62b44623b2d0) with status 500
+2023-10-04 13:30:45,211 - basicLogger - INFO - Received event meal_calories request with a trace id of 9db5e10e-6203-4b86-b7b4-5ccb80736488
+2023-10-04 13:30:47,274 - basicLogger - INFO - Returned event meal_calories response (Id: 9db5e10e-6203-4b86-b7b4-5ccb80736488) with status 201
+2023-10-15 06:46:55,754 - basicLogger - INFO - Received event meal_calories request with a trace id of e0055f3c-90dd-4c8b-b8b3-ba8604e96e20
+2023-10-15 06:46:57,931 - basicLogger - INFO - Returned event meal_calories response (Id: e0055f3c-90dd-4c8b-b8b3-ba8604e96e20) with status 201
+2023-10-15 07:26:25,965 - basicLogger - INFO - Received event meal_calories request with a trace id of a637930b-800a-4c16-b1c0-6c1555aa8d27
+2023-10-15 07:26:28,016 - basicLogger - INFO - Returned event meal_calories response (Id: a637930b-800a-4c16-b1c0-6c1555aa8d27) with status 201
+2023-10-15 07:32:53,600 - basicLogger - INFO - Received event meal_calories request with a trace id of b884ff29-c044-45ab-ac41-d9717e503d1a
+2023-10-15 07:32:55,636 - basicLogger - INFO - Returned event meal_calories response (Id: b884ff29-c044-45ab-ac41-d9717e503d1a) with status 201
+2023-10-15 07:34:10,726 - basicLogger - INFO - Received event meal_calories request with a trace id of b6ec70aa-5054-424c-b463-0f7e0cc3b36d
+2023-10-15 07:34:12,769 - basicLogger - INFO - Returned event meal_calories response (Id: b6ec70aa-5054-424c-b463-0f7e0cc3b36d) with status 201
+2023-10-15 07:34:16,451 - basicLogger - INFO - Received event meal_calories request with a trace id of 059e27dd-5bb6-438b-bad0-ce712af784c5
+2023-10-15 07:34:18,507 - basicLogger - INFO - Returned event meal_calories response (Id: 059e27dd-5bb6-438b-bad0-ce712af784c5) with status 201
+2023-10-15 09:27:57,583 - basicLogger - INFO - Received event user_weight request with a trac id of a8bac723-57b5-434f-b4ba-534b2f009084
+2023-10-15 09:27:59,641 - basicLogger - INFO - Returned event user_weight response (Id: a8bac723-57b5-434f-b4ba-534b2f009084) with status 201
+2023-10-15 09:28:30,823 - basicLogger - INFO - Received event user_weight request with a trac id of 3df24379-4f6c-4ddb-8800-c72d03a82317
+2023-10-15 09:28:32,878 - basicLogger - INFO - Returned event user_weight response (Id: 3df24379-4f6c-4ddb-8800-c72d03a82317) with status 201
+2023-10-15 09:28:42,082 - basicLogger - INFO - Received event user_weight request with a trac id of 7eb3fc24-68a0-4f99-8a2a-bf4573c8d1a4
+2023-10-15 09:28:44,131 - basicLogger - INFO - Returned event user_weight response (Id: 7eb3fc24-68a0-4f99-8a2a-bf4573c8d1a4) with status 201
+2023-10-15 10:37:06,574 - basicLogger - INFO - Received event meal_calories request with a trace id of 5a9763fb-d664-4fb8-bea8-33f612a7af27
+2023-10-15 10:37:08,616 - basicLogger - INFO - Returned event meal_calories response (Id: 5a9763fb-d664-4fb8-bea8-33f612a7af27) with status 201
+2023-10-15 10:37:41,336 - basicLogger - INFO - Received event user_weight request with a trac id of 8239c156-892e-4dcc-adf3-f827f4fae0a6
+2023-10-15 10:37:43,380 - basicLogger - INFO - Returned event user_weight response (Id: 8239c156-892e-4dcc-adf3-f827f4fae0a6) with status 201
+2023-11-01 22:28:46,668 - basicLogger - INFO - Received event meal_calories request with a trace id of 419e491f-50d2-40cb-9ecf-4d513c48b71d
+2023-11-01 22:28:48,728 - basicLogger - INFO - Returned event meal_calories response (Id: 419e491f-50d2-40cb-9ecf-4d513c48b71d) with status 201
+2023-11-01 23:58:04,882 - basicLogger - INFO - Received event meal_calories request with a trace id of 5f2d5038-d1c6-4db8-ad47-897d95551f5e
+2023-11-01 23:58:07,300 - basicLogger - INFO - Returned event meal_calories response (Id: 5f2d5038-d1c6-4db8-ad47-897d95551f5e) with status 201
+2023-11-02 00:25:11,002 - basicLogger - INFO - Received event meal_calories request with a trace id of 3966421b-d902-4a3a-9ff8-49212ba8fa7a
+2023-11-02 00:25:13,420 - basicLogger - INFO - Returned event meal_calories response (Id: 3966421b-d902-4a3a-9ff8-49212ba8fa7a) with status 201
+2023-11-02 01:36:42,733 - basicLogger - INFO - Received event meal_calories request with a trace id of 1d768556-d02a-41c2-a76b-722a26e71b2d
+2023-11-02 01:39:03,784 - basicLogger - INFO - Received event meal_calories request with a trace id of 1bcb6d15-79f3-4bad-8bae-c07c8f1b07e1
+2023-11-02 01:41:30,428 - basicLogger - INFO - Received event meal_calories request with a trace id of e60d66c4-37b5-490d-93a9-c4a0dc1ead74
+2023-11-02 01:41:30,704 - basicLogger - INFO - Returned event meal_calories response (Id: e60d66c4-37b5-490d-93a9-c4a0dc1ead74) with status 201
+2023-11-02 01:47:31,827 - basicLogger - INFO - Received event meal_calories request with a trace id of 0fe954cc-af1b-43d6-bfcc-f1aba78a34a7
+2023-11-02 01:47:32,006 - basicLogger - INFO - Returned event meal_calories response (Id: 0fe954cc-af1b-43d6-bfcc-f1aba78a34a7) with status 201
+2023-11-02 01:49:36,809 - basicLogger - INFO - Received event meal_calories request with a trace id of ccc60053-1f98-4f21-8d9c-0f764f1fe181
+2023-11-02 01:49:36,983 - basicLogger - INFO - Returned event meal_calories response (Id: ccc60053-1f98-4f21-8d9c-0f764f1fe181) with status 201
+2023-11-02 01:50:22,725 - basicLogger - INFO - Received event meal_calories request with a trace id of 9c6b3710-7243-4ca0-a6d4-a90d7da8b690
+2023-11-02 01:50:22,889 - basicLogger - INFO - Returned event meal_calories response (Id: 9c6b3710-7243-4ca0-a6d4-a90d7da8b690) with status 201
+2023-11-02 01:57:13,953 - basicLogger - INFO - Received event meal_calories request with a trace id of 0a76ff3b-227d-46e6-ab86-430f523f4e6f
+2023-11-02 01:57:14,127 - basicLogger - INFO - {'type': 'calories', 'datetime': '2023-11-02T01:57:14', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Red Bull', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': '0a76ff3b-227d-46e6-ab86-430f523f4e6f'}}
+2023-11-02 01:57:14,155 - basicLogger - INFO - Returned event meal_calories response (Id: 0a76ff3b-227d-46e6-ab86-430f523f4e6f) with status 201
+2023-11-02 02:04:40,136 - basicLogger - INFO - Received event meal_calories request with a trace id of 86cf6cd6-cfd3-4ee6-8221-e6ac3ed05334
+2023-11-02 02:04:40,275 - basicLogger - INFO - {'type': 'calories', 'datetime': '2023-11-02T02:04:40', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Red Bull', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': '86cf6cd6-cfd3-4ee6-8221-e6ac3ed05334'}}
+2023-11-02 02:04:40,302 - basicLogger - INFO - Returned event meal_calories response (Id: 86cf6cd6-cfd3-4ee6-8221-e6ac3ed05334) with status 201
+2023-11-02 02:05:58,598 - basicLogger - INFO - Received event meal_calories request with a trace id of e7b1c74b-5499-43ef-8edf-b1bd69c360ee
+2023-11-02 02:05:58,750 - basicLogger - INFO - {'type': 'calories', 'datetime': '2023-11-02T02:05:58', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Red Bull', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': 'e7b1c74b-5499-43ef-8edf-b1bd69c360ee'}}
+2023-11-02 02:05:58,777 - basicLogger - INFO - Returned event meal_calories response (Id: e7b1c74b-5499-43ef-8edf-b1bd69c360ee) with status 201
+2023-11-02 02:19:35,239 - basicLogger - INFO - Received event user_weight request with a trac id of f64e9922-064e-4e1f-9b21-84097c3ff7dd
+2023-11-02 02:19:35,419 - basicLogger - INFO - Returned event user_weight response (Id: f64e9922-064e-4e1f-9b21-84097c3ff7dd) with status 201
+2023-11-02 02:48:59,690 - basicLogger - INFO - Received event meal_calories request with a trace id of 08caf2f4-2135-4232-a459-3af9d2a71401
+2023-11-02 02:49:00,001 - basicLogger - INFO - {'type': 'calories', 'datetime': '2023-11-02T02:49:00', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Red Bull', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': '08caf2f4-2135-4232-a459-3af9d2a71401'}}
+2023-11-02 02:49:00,063 - basicLogger - INFO - Returned event meal_calories response (Id: 08caf2f4-2135-4232-a459-3af9d2a71401) with status 201
+2023-11-02 02:52:03,545 - basicLogger - INFO - Received event meal_calories request with a trace id of 181e4422-7065-4c5b-9bf1-ef6d8092a3e2
+2023-11-02 02:52:03,707 - basicLogger - INFO - {'type': 'calories', 'datetime': '2023-11-02T02:52:03', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Takis', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': '181e4422-7065-4c5b-9bf1-ef6d8092a3e2'}}
+2023-11-02 02:52:03,740 - basicLogger - INFO - Returned event meal_calories response (Id: 181e4422-7065-4c5b-9bf1-ef6d8092a3e2) with status 201
+2023-11-02 03:22:27,889 - basicLogger - INFO - Received event meal_calories request with a trace id of c45c7ba9-15d5-4d02-8546-4ae75ad870b5
+2023-11-02 03:22:28,044 - basicLogger - INFO - {'type': 'calories', 'datetime': '2023-11-02T03:22:28', 'payload': {'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'calorie_count': 100, 'meal_name': 'Water', 'meal_number': 1, 'timestamp': '2023-02-10T13:00:00Z', 'trace_id': 'c45c7ba9-15d5-4d02-8546-4ae75ad870b5'}}
+2023-11-02 03:22:28,070 - basicLogger - INFO - Returned event meal_calories response (Id: c45c7ba9-15d5-4d02-8546-4ae75ad870b5) with status 201
+2023-11-02 03:45:08,484 - basicLogger - INFO - Received event user_weight request with a trac id of 00b5703e-0d49-44cb-b3a7-cf8deb8832b5
+2023-11-02 03:45:08,651 - basicLogger - INFO - Returned event user_weight response (Id: 00b5703e-0d49-44cb-b3a7-cf8deb8832b5) with status 201

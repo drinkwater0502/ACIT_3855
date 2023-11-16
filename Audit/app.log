@@ -1,0 +1,77 @@
+2023-11-02 02:46:11,957 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:46:12,002 - basicLogger - ERROR - No more messages found
+2023-11-02 02:46:12,002 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:48:45,375 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:48:45,398 - basicLogger - ERROR - No more messages found
+2023-11-02 02:48:45,399 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:49:44,652 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:49:44,684 - basicLogger - ERROR - No more messages found
+2023-11-02 02:49:44,684 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:50:24,754 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:50:24,780 - basicLogger - ERROR - No more messages found
+2023-11-02 02:50:24,780 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:50:54,568 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:50:54,607 - basicLogger - ERROR - No more messages found
+2023-11-02 02:50:54,608 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:55:12,190 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:55:12,231 - basicLogger - ERROR - No more messages found
+2023-11-02 02:55:12,231 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:56:01,388 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:56:01,420 - basicLogger - ERROR - No more messages found
+2023-11-02 02:56:01,421 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:56:33,006 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:56:33,067 - basicLogger - ERROR - No more messages found
+2023-11-02 02:56:33,067 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:57:32,185 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:57:32,234 - basicLogger - ERROR - No more messages found
+2023-11-02 02:57:32,234 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:59:17,171 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:59:18,208 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 02:59:48,562 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 02:59:49,790 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:02:23,217 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:02:23,287 - basicLogger - ERROR - No more messages found
+2023-11-02 03:02:23,287 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:02:50,130 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:02:50,157 - basicLogger - ERROR - No more messages found
+2023-11-02 03:02:50,157 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:05:02,332 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:05:03,414 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:05:30,791 - basicLogger - INFO - ec2-34-215-184-146.us-west-2.compute.amazonaws.com:9092
+2023-11-02 03:05:31,160 - basicLogger - INFO - Retrieving User Weight at index 0
+2023-11-02 03:05:31,536 - basicLogger - ERROR - No more messages found
+2023-11-02 03:05:31,537 - basicLogger - ERROR - Could not find User Weight at index 0
+2023-11-02 03:05:55,765 - basicLogger - INFO - ec2-34-215-184-146.us-west-2.compute.amazonaws.com:9092
+2023-11-02 03:05:56,710 - basicLogger - INFO - Retrieving User Weight at index 0
+2023-11-02 03:05:57,777 - basicLogger - ERROR - Could not find User Weight at index 0
+2023-11-02 03:11:31,945 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:11:32,977 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:11:39,564 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:11:40,599 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:12:38,094 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:17:57,834 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:19:05,167 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:19:23,314 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:20:35,431 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:21:13,206 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:21:14,233 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:22:51,024 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:22:52,059 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:25:47,483 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:25:48,528 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:27:27,459 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:27:28,504 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:28:44,311 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:28:48,437 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:28:49,469 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:29:16,271 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:29:17,308 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:30:32,159 - basicLogger - INFO - Retrieving Meal Calories at index 0
+2023-11-02 03:30:33,202 - basicLogger - ERROR - Could not find Meal Calories at index 0
+2023-11-02 03:42:39,781 - basicLogger - INFO - Retrieving Meal Calories at index 8
+2023-11-02 03:43:49,896 - basicLogger - INFO - ec2-34-215-184-146.us-west-2.compute.amazonaws.com:9092
+2023-11-02 03:43:50,080 - basicLogger - INFO - Retrieving User Weight at index 0
+2023-11-02 03:44:19,367 - basicLogger - INFO - ec2-34-215-184-146.us-west-2.compute.amazonaws.com:9092
+2023-11-02 03:44:19,532 - basicLogger - INFO - Retrieving User Weight at index 1
+2023-11-02 03:44:20,559 - basicLogger - ERROR - Could not find User Weight at index 1
+2023-11-02 03:45:31,736 - basicLogger - INFO - Retrieving User Weight at index 1

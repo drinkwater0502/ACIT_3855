@@ -1,0 +1,63 @@
+---
+openapi: 3.0.0
+info:
+  title: Diet Tracker API
+  description: This API receives nutritional information from a diet tracker
+  contact:
+    email: sjung97@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+servers:
+- url: /
+tags:
+- name: devices
+  description: Operations available to IoT devices
+
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets Meal Calories and User Weight processed statistics
+      responses:
+        '200':
+          description: Successfully returned list of meal calories and user weights
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - total_meal_calorie_entries
+      - total_user_weight_entries
+      - highest_meal_calorie
+      - lowest_user_weight
+      type: object
+      properties:
+        total_meal_calorie_entries:
+          type: integer
+          example: 100
+        total_user_weight_entries:
+          type: integer
+          example: 100
+        highest_meal_calorie:
+          type: number
+          example: 250
+        lowest_user_weight:
+          type: number
+          example: 19

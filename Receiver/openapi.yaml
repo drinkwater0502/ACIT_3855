@@ -1,0 +1,100 @@
+---
+openapi: 3.0.0
+info:
+  title: Diet Tracker API
+  description: This API receives nutritional information from a diet tracker
+  contact:
+    email: sjung97@my.bcit.ca
+  version: 1.0.0
+servers:
+- url: /
+tags:
+- name: devices
+  description: Operations available to diet tracker devices
+paths:
+  /calories:
+    post:
+      tags:
+      - devices
+      summary: reports calories contained in a meal
+      description: adds calories contained in a meal to the users data
+      operationId: app.meal_calories
+      requestBody:
+        description: meal calories to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Calories'
+      responses:
+        "201":
+          description: meal calories created
+        "400":
+          description: invalid input
+  /weight:
+    post:
+      tags:
+      - devices
+      summary: reports user weight
+      description: adds/updates user weight to the users data
+      operationId: app.user_weight
+      requestBody:
+        description: user weight data to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Weight'
+      responses:
+        "201":
+          description: user weight data created
+        "400":
+          description: invalid input
+components:
+  schemas:
+    Calories:
+      required:
+      - calorie_count
+      - meal_name
+      - meal_number
+      - timestamp
+      - user_id
+      type: object
+      properties:
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        meal_name:
+          type: string
+          example: Rice Bowl
+        meal_number:
+          type: integer
+          example: 1
+        calorie_count:
+          type: integer
+          example: 120
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+    Weight:
+      required:
+      - timestamp
+      - user_id
+      - weight_kg
+      - weight_lbs
+      type: object
+      properties:
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        weight_kg:
+          type: integer
+          example: 60
+        weight_lbs:
+          type: integer
+          example: 132
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
