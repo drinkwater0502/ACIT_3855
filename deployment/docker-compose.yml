@@ -85,6 +85,8 @@ services:
       - "storage"
   audit_log:
     image: audit_log
+    environment:
+      - TARGET_ENV=test
     ports:
       - "8110:8110"
     volumes:
