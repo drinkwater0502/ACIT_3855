@@ -38,6 +38,19 @@ logger = logging.getLogger('basicLogger')
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File: %s" % log_conf_file)
 
+file_path = app_config['datastore']['filename']
+if not os.path.exists(file_path):
+    # If the file doesn't exist, create it and populate with default values
+    with open(file_path, 'w') as file:
+        # Default values (all zeroes in this example)
+        default_values = {'last_updated_stats': '2000-02-10T13:00:00Z', 'total_meal_calorie_entries': 0, 'total_user_weight_entries': 0, 'highest_meal_calorie': 0, 'lowest_user_weight': 9999}
+
+        # Write the default values to the file
+        json.dump(default_values, file)
+
+    print(f"The file '{file_path}' didn't exist, and it has been created with default values.")
+
+
 # def get_stats():
 #     print('DATETIME LOOK HERE', type(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
 #     session = DB_SESSION()
