@@ -96,6 +96,7 @@ app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml", base_path="/audit_log", strict_validation = True, validate_responses = True)
 
 if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    print('audit not working target')
     CORS(app.app)
     app.app.config['CORS_HEADERS'] = 'Content-Type'
 
