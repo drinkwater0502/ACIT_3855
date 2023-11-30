@@ -165,7 +165,7 @@ def process_messages():
                     session.commit()
                     session.close()
                 consumer.commit_offsets()
-                break
+            break
         except:
             logger.error('Error while trying to connect to Kafka')
             counter += 1
