@@ -76,12 +76,16 @@ services:
     ports:
       - "8100:8100"
     network_mode: 'host'
+    volumes:
+      - /home/ubuntu/config/processing:/config
     depends_on:
       - "storage"
   audit_log:
     image: audit_log
     ports:
       - "8110:8110"
+    volumes:
+      - /home/ubuntu/config/audit_log:/config
     depends_on:
       - "kafka"
   dashboard:
