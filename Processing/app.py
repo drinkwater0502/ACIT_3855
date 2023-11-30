@@ -207,8 +207,8 @@ def populate_stats():
             if min_weight_count < new_stats['lowest_user_weight']:
                 new_stats['lowest_user_weight'] = min_weight_count
 
-        # with open(app_config['datastore']['filename'], 'w') as json_file:
-        #     json.dump(new_stats, json_file)
+        with open(app_config['datastore']['filename'], 'w') as json_file:
+            json.dump(new_stats, json_file)
         if not os.path.exists('/data'):
             os.makedirs('/data')
             print(f"The directory /data didn't exist and has been created.")
@@ -223,6 +223,9 @@ def populate_stats():
                 json.dump(default_values, file)
 
             print(f"The file '{file_path}' didn't exist, and it has been created with default values.")
+        else:
+            with open(file_path, 'w') as json_file:
+                json.dump(new_stats, json_file)
         
         logger.debug(new_stats)
     logger.info('Period processing has ended')
