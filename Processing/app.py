@@ -159,8 +159,8 @@ def populate_stats():
         old_stats = r.json()
     
     curr_time = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-    r_calories = requests.get(f'http://localhost:8090/calories?timestamp={old_stats["last_updated_stats"]}')
-    r_weight = requests.get(f'http://localhost:8090/weight?timestamp={old_stats["last_updated_stats"]}')
+    r_calories = requests.get(f'http://localhost:8090/calories?timestamp={old_stats["last_updated_stats"]}&end_timestamp={curr_time}')
+    r_weight = requests.get(f'http://localhost:8090/weight?timestamp={old_stats["last_updated_stats"]}&end_timestamp={curr_time}')
     if r_calories.status_code != 200 or r_weight.status_code != 200:
         logger.error('get request for timestamp failed')
     else:

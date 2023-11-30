@@ -8,6 +8,7 @@ import logging
 import logging.config
 import uuid
 from pykafka import KafkaClient
+import time
 
 MAX_EVENTS = 10
 EVENT_FILE = 'events.json'
@@ -24,6 +25,23 @@ with open('log_conf.yml', 'r') as f:
 
 logger = logging.getLogger('basicLogger')
 
+retries = app_config['retries']['max']
+wait_time = app_config['retries']['sleep']
+counter = 0
+while counter < retries:
+    logger.info(f'Trying to connect to Kafka, try number {counter}')
+    try:
+        client = KafkaClient(hosts=f"{hostname}:{port}")
+        topic = client.topics[str.encode(app_config['events']['topic'])]
+        producer = topic.get_sync_producer()
+        break
+
+    except:
+            logger.error('Error while trying to connect to Kafka')
+            counter += 1
+            time.sleep(wait_time)
+
+
 # Your functions here
 def meal_calories(body):
 
@@ -36,9 +54,9 @@ def meal_calories(body):
     # headers = {'Content-Type': 'application/json'}
     # r = requests.post(app_config['eventstore1']['url'], json=body, headers=headers)
     # print(r.status_code)
-    client = KafkaClient(hosts=f'{hostname}:{port}')
-    topic = client.topics[str.encode(app_config['events']['topic'])]
-    producer = topic.get_sync_producer()
+    # client = KafkaClient(hosts=f'{hostname}:{port}')
+    # topic = client.topics[str.encode(app_config['events']['topic'])]
+    # producer = topic.get_sync_producer()
     msg = { "type": "calories",
         "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "payload": body }
@@ -62,9 +80,9 @@ def user_weight(body):
     # headers = {'Content-Type': 'application/json'}
     # r = requests.post(app_config['eventstore2']['url'], json=body, headers=headers)
     # print(r.status_code)
-    client = KafkaClient(hosts=f'{hostname}:{port}')
-    topic = client.topics[str.encode(app_config['events']['topic'])]
-    producer = topic.get_sync_producer()
+    # client = KafkaClient(hosts=f'{hostname}:{port}')
+    # topic = client.topics[str.encode(app_config['events']['topic'])]
+    # producer = topic.get_sync_producer()
     msg = { "type": "weight",
         "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "payload": body }
