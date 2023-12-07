@@ -7,10 +7,10 @@ eventstore:
   url: http://localhost:8120
 services:
   receiver:
-    url: ec2-52-10-1-233.us-west-2.compute.amazonaws.com/receiver/health
+    url: http://ec2-52-10-1-233.us-west-2.compute.amazonaws.com/receiver/health
   storage:
-    url: ec2-52-10-1-233.us-west-2.compute.amazonaws.com/storage/health
+    url: http://ec2-52-10-1-233.us-west-2.compute.amazonaws.com/storage/health
   processing:
-    url: ec2-52-10-1-233.us-west-2.compute.amazonaws.com/processing/health
+    url: http://ec2-52-10-1-233.us-west-2.compute.amazonaws.com/processing/health
   audit:
-    url: ec2-52-10-1-233.us-west-2.compute.amazonaws.com/audit_log/health
+    url: http://ec2-52-10-1-233.us-west-2.compute.amazonaws.com/audit_log/health
