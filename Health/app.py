@@ -106,21 +106,21 @@ def get_health():
         try:
             requests.get(app_config["services"]["storage"]["url"], timeout=5)
             storage = "Running"
-        except: 
+        except Exception as e: 
             print(f'Error in storage: {e}')
             storage = "Down"
 
         try:
             requests.get(app_config["services"]["processing"]["url"], timeout=5)
             processing = "Running"
-        except: 
+        except Exception as e: 
             print(f'Error in processing: {e}')
             processing = "Down"
 
         try:
             requests.get(app_config["services"]["audit"]["url"], timeout=5)
             audit = "Running"
-        except: 
+        except Exception as e: 
             print(f'Error in audit: {e}')
             audit = "Down"
 
