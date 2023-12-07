@@ -75,6 +75,7 @@ def get_health():
     results = session.query(Health).all()
 
     if not results:
+        print('no results from query')
         h = Health("Down",
                   "Down",
                   "Down",
@@ -95,33 +96,32 @@ def get_health():
         processing = results[0].processing
         audit = results[0].audit
 
-        # health check logic
         try:
             requests.get(app_config["services"]["receiver"]["url"], timeout=5)
             receiver = "Running"
-        except: 
-            print('Error in receiver')
+        except Exception as e: 
+            print(f'Error in receiver: {e}')
             receiver = "Down"
         
         try:
             requests.get(app_config["services"]["storage"]["url"], timeout=5)
             storage = "Running"
         except: 
-            print('Error in storage')
+            print(f'Error in storage: {e}')
             storage = "Down"
 
         try:
             requests.get(app_config["services"]["processing"]["url"], timeout=5)
             processing = "Running"
         except: 
-            print('Error in processing')
+            print(f'Error in processing: {e}')
             processing = "Down"
 
         try:
             requests.get(app_config["services"]["audit"]["url"], timeout=5)
             audit = "Running"
         except: 
-            print('Error in audit')
+            print(f'Error in audit: {e}')
             audit = "Down"
 
         current_timestamp = datetime.datetime.strptime(current_timestamp, "%Y-%m-%dT%H:%M:%SZ")
