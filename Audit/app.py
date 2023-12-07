@@ -92,6 +92,9 @@ def get_user_weight(index):
     logger.error("Could not find User Weight at index %d" % index)
     return { "message": "Not Found"}, 404
 
+def get_health():
+    return 200
+
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml", base_path="/audit_log", strict_validation = True, validate_responses = True)
 

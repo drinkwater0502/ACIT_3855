@@ -183,6 +183,9 @@ def process_messages():
             logger.error('Error while trying to connect to Kafka')
             counter += 1
             time.sleep(wait_time)
+
+def get_health():
+    return 200
     
 
 

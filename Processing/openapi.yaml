@@ -39,6 +39,34 @@ paths:
                 properties:
                   message:
                     type: string
+  /health:
+    get:
+      summary: check service health
+      operationId: app.get_health
+      parameters:
+        - name: health
+          in: query
+          schema:
+            type: integer
+            example: 200
+      responses:
+        '200':
+          description: Processing service is running
+          content:
+            application/json: 
+              schema:
+                type: integer
+                items:
+                  $ref: '#/components/schemas/health'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: integer
+                properties:
+                  message:
+                    type: string
 components:
   schemas:
     ReadingStats:
@@ -61,3 +89,11 @@ components:
         lowest_user_weight:
           type: number
           example: 19
+    health: 
+      type: object
+      required:
+        - health
+      properties:
+        health:
+          type: integer
+          example: 200

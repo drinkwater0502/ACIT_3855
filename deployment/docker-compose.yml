@@ -102,6 +102,17 @@ services:
       - /home/ubuntu/logs:/logs
     depends_on:
       - "kafka"
+  health:
+    image: health
+    environment:
+      - TARGET_ENV=test
+    ports:
+      - '8120:8120'
+    volumes:
+      - /home/ubuntu/config/health:/config
+      - /home/ubuntu/logs:/logs
+    depends_on:
+      - 'kafka'
   dashboard-ui:
     image: dashboard-ui
     ports:
